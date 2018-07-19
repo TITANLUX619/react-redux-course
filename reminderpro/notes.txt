@@ -1,0 +1,11 @@
+Add a constant to the constants file. Something like `const GREAT_COURSE = ‘GREAT_COURSE`
+
+Add an action creator to the actions folder. Return an action JavaScript object with a type 
+of the constant you created.
+
+Add a reducer to the reducers folder that handles this action creator.
+
+
+A browser cookie or HTTP cookie stores a small piece of data from a website or 
+web application right on the user’s computer. It allows apps to keep useful information 
+like a user’s last search, name, or password for authentication.
